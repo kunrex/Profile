@@ -146,6 +146,19 @@ a:hover, a:active {
     background-repeat: no-repeat;
 }
 
+
+#itch:link {
+    color: indianred;
+}
+
+#itch:visited {
+    color: mediumvioletred;
+}
+
+#itch:hover, a:active {
+    color: palevioletred;
+}
+
 .current_projects, .other_projects {
     padding-top: min(5vh, 20px);
     padding-bottom: min(5vh, 100px);
